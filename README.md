@@ -1,1 +1,1 @@
-# trex-game
+# Trex_template
